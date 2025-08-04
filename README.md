@@ -28,7 +28,7 @@ The System predict disease and recommend medicine based on user entered symptoms
 # How to Run the Project
 To run the Medicine Recommendation System.
 ## 1. Install required Python libraries:
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 ## 2. Navigate to the project directory:
 cd 
