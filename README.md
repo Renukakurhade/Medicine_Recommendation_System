@@ -22,9 +22,6 @@ The System predict disease and recommend medicine based on user entered symptoms
 ## 4. templates
 - `index.html` : Frontend interface for the system.
 
-## 5. screenshots
-- Includes the screenshots of the project.
-
 # How to Run the Project
 To run the Medicine Recommendation System.
 ## 1. Install required Python libraries:
